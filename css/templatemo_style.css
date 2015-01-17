@@ -324,9 +324,9 @@ h6 {
 }
 #templatemo_logo h1 {
   margin: 0;
-  text-transform: uppercase;
-  font-weight: 600;
-  line-height: 102px;
+  text-transform: capitalize;
+  font-weight: 200;
+  line-height: 50px;  /** Logo space **/
   display: block;
 }
 #templatemo_logo h1 a {
